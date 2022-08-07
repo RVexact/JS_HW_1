@@ -162,7 +162,6 @@ function checkAge(age_1, age_2, age_3) {
     }
 }
 
-
  checkAge("17", 18, 61);
 
 
